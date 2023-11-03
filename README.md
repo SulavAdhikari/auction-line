@@ -15,14 +15,15 @@ Getting Started
 To get started with this project, follow the instructions below:
 
 <h3>Set up a virtual environment:</h3>
+
 ```
 python -m venv env
 source env/bin/activate 
-# windows
-env\Scripts\activate.ps1'
+env\Scripts\activate.ps1
 ```
 
 <h3>Install the required dependencies:</h3>
+
 ```
 pip install -r requirements.txt
 ```
