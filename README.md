@@ -2,15 +2,15 @@
 Welcome to our Django-based web application for auctioning products, where simplicity meets functionality. This platform is designed to facilitate an efficient and engaging bidding process for a variety of items.
 
 <h2>Features</h2>
-<b>Open Listings</b>: Any registered user can list products for auction.
-<b>Active Bidding</b>: Interested buyers can place bids on any listed item.
-<b>Timed Auctions</b>: Sellers have the option to set a timer, after which the highest bidder is automatically selected.
-<b>Seller's Choice</b>: Sellers may also manually select a winner at their discretion.
-<b>User Dashboards</b>: Separate dashboards for sellers and buyers to manage activities.
-<b>AI Price Prediction</b>: Utilizes AI to predict car prices, aiding sellers in setting starting bids.
-<b>Admin Panel</b>: Robust admin panel for managing listings, users, and site settings.
-<b>Image Storage</b>: Capability to store and display images for each item.
-<b>Automatic Unavailability</b>: Items are set to 'unavailable' after the auction end date/time passes.
+<b>Open Listings</b>: Any registered user can list products for auction. <br>
+<b>Active Bidding</b>: Interested buyers can place bids on any listed item.<br>
+<b>Timed Auctions</b>: Sellers have the option to set a timer, after which the highest bidder is automatically selected.<br>
+<b>Seller's Choice</b>: Sellers may also manually select a winner at their discretion.<br>
+<b>User Dashboards</b>: Separate dashboards for sellers and buyers to manage activities.<br>
+<b>AI Price Prediction</b>: Utilizes AI to predict car prices, aiding sellers in setting starting bids.<br>
+<b>Admin Panel</b>: Robust admin panel for managing listings, users, and site settings.<br>
+<b>Image Storage</b>: Capability to store and display images for each item.<br>
+<b>Automatic Unavailability</b>: Items are set to 'unavailable' after the auction end date/time passes.<br>
 Getting Started
 To get started with this project, follow the instructions below:
 
