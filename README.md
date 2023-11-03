@@ -1,7 +1,7 @@
-#Django Bidding Web App
+<h1>Django Bidding Web App</h1>
 Welcome to our Django-based web application for auctioning products, where simplicity meets functionality. This platform is designed to facilitate an efficient and engaging bidding process for a variety of items.
 
-##Features
+<h2>Features</h2>
 ***Open Listings***: Any registered user can list products for auction.
 ***Active Bidding***: Interested buyers can place bids on any listed item.
 ***Timed Auctions***: Sellers have the option to set a timer, after which the highest bidder is automatically selected.
@@ -14,31 +14,30 @@ Welcome to our Django-based web application for auctioning products, where simpl
 Getting Started
 To get started with this project, follow the instructions below:
 
-###Set up a virtual environment:
+<h3>Set up a virtual environment:</h3>
 ```
 python -m venv env
-
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 ```
 
-###Install the required dependencies:
+<h3>Install the required dependencies:</h3>
 ```
 pip install -r requirements.txt
 ```
-###Train the AI Model:
+<h3>Train the AI Model:</h3>
 
 Navigate to the ./utils/CarPrice directory and Ensure that this model is trained before you start the server as it is essential for the AI price prediction feature.
 
-###Run the Development Server:
+<h3>Run the Development Server:</h3>
 
 After training the model, start the Django development server:
 
 ```
 python manage.py runserver
 ```
-##Usage
+<h2>Usage</h2>
 
-###Once the server is up and running:
+<h3>Once the server is up and running:</h3>
 
 Visit the homepage and sign up for an account.
 Navigate to the seller dashboard to list an item for auction.
