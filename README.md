@@ -2,22 +2,24 @@
 Welcome to our Django-based web application for auctioning products, where simplicity meets functionality. This platform is designed to facilitate an efficient and engaging bidding process for a variety of items.
 
 <h2>Features</h2>
-***Open Listings***: Any registered user can list products for auction.
-***Active Bidding***: Interested buyers can place bids on any listed item.
-***Timed Auctions***: Sellers have the option to set a timer, after which the highest bidder is automatically selected.
-***Seller's Choice***: Sellers may also manually select a winner at their discretion.
-***User Dashboards***: Separate dashboards for sellers and buyers to manage activities.
-***AI Price Prediction***: Utilizes AI to predict car prices, aiding sellers in setting starting bids.
-***Admin Panel***: Robust admin panel for managing listings, users, and site settings.
-***Image Storage***: Capability to store and display images for each item.
-***Automatic Unavailability***: Items are set to 'unavailable' after the auction end date/time passes.
+<b>Open Listings</b>: Any registered user can list products for auction.
+<b>Active Bidding</b>: Interested buyers can place bids on any listed item.
+<b>Timed Auctions</b>: Sellers have the option to set a timer, after which the highest bidder is automatically selected.
+<b>Seller's Choice</b>: Sellers may also manually select a winner at their discretion.
+<b>User Dashboards</b>: Separate dashboards for sellers and buyers to manage activities.
+<b>AI Price Prediction</b>: Utilizes AI to predict car prices, aiding sellers in setting starting bids.
+<b>Admin Panel</b>: Robust admin panel for managing listings, users, and site settings.
+<b>Image Storage</b>: Capability to store and display images for each item.
+<b>Automatic Unavailability</b>: Items are set to 'unavailable' after the auction end date/time passes.
 Getting Started
 To get started with this project, follow the instructions below:
 
 <h3>Set up a virtual environment:</h3>
 ```
 python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+source env/bin/activate 
+# windows
+env\Scripts\activate.ps1'
 ```
 
 <h3>Install the required dependencies:</h3>
